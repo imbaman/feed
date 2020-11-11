@@ -1,10 +1,10 @@
 # How to use
 
-In the project directory /src you can run:
+In the project directory inside /src run:
 
 ### `json-server --watch db.json`
 
-In the project directory, you can run:
+Then in the second terminal inside project directory run:
 
 ### `npm start`
 
